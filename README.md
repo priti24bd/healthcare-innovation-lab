@@ -1,6 +1,6 @@
 # 🧠 Healthcare Innovation Lab  
 
-Welcome to the **Healthcare Innovation Lab** — a space where technology, creativity, and care come together.  
+Welcome to the **Healthcare Innovation Lab** - a space where technology, creativity, and care come together.  
 This repository explores **innovative health solutions** designed to improve well-being, prevent disease, and make healthcare more accessible through research-driven ideas and practical projects.
 
 ---
